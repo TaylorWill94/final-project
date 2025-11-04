@@ -32,7 +32,14 @@ function App() {
 
       <div className="section">
         <div>
-          <p>Groundwater Extraction</p>
+          <h1>Groundwater Extraction</h1>
+          <p>
+            Groundwater Extraction is a process that involves pumping water from
+            underground water resoviors. Although this process stopped in the
+            1970s, when the water was removed it left empty spaces in the
+            ground. This left the weight of Venice's buildings to compress the
+            soil into the empty space.
+          </p>
         </div>
 
         <div>
