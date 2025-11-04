@@ -59,9 +59,25 @@ function App() {
         <p>
           This issue is important for making a city resilient in the future
           because as we face global warming, sinking isn't just an issue in
-          Venice. Addressing hoow to fix this issue is important to the
+          Venice. Addressing how to fix this issue is important to the
           sustanability of many cities throughout the world. As well as making
-          sure that there are proper protection mesasures in place.
+          sure that there are proper protection mesasures in place. If we can
+          truly find a solution to combat cities from sinking, this can reframe
+          Global Warming. We can use this information and distribute it to
+          cities worldwide. Currently there is a system in place which is called
+          the MOSE system. This system has 78 steel elements that each weigh 250
+          tons. This system is designed to protect the city of venice and the
+          barriers are over 130cm over sea level. This is a system that does
+          have to be physically deployed.
+        </p>
+      </div>
+
+      <div>
+        <p>
+          The praticular population that will be effected first are the
+          residents and visitors of Venice. Outside of the residents of Venice,
+          any community that is on a coastline is threatneded by the issue of
+          sinking.
         </p>
       </div>
     </div>
