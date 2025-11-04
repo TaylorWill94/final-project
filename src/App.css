@@ -10,11 +10,11 @@
 
 .header {
   font-size: 50px;
-  color: rgb(129, 206, 206);
+  color: lightblue;
 }
 
 .venice {
-  color: rgb(150, 186, 138);
+  color: lightblue;
 }
 
 @media screen and (min-width: 320px) and (max-width: 640px) {
@@ -30,11 +30,8 @@
   }
 
   .header {
-    font-size: 25px;
-    color: rgb(0, 0, 0);
-  }
-
-  .venice {
+    font-size: 35px;
+    font-weight: 600;
     color: lightblue;
   }
 
