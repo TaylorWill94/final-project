@@ -43,7 +43,15 @@ function App() {
         </div>
 
         <div>
-          <p>Soil Compression</p>
+          <h1>Soil Compression</h1>
+          <p>
+            Venice by nature is a natural marsh which means it is made up of wet
+            soft and muddy oil. In order for all the beautiful buildings to be
+            built, engineers dug wooden poles into the earth to act as a
+            foundation. Over time buildings have pushed down on this soil
+            causing it to compact and compress. This is where we get buildings
+            sinking over time.
+          </p>
         </div>
       </div>
 

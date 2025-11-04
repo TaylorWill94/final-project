@@ -22,11 +22,11 @@
   }
 
   .header {
-    color: pink;
+    color: white;
   }
 
   .final {
-    color: yellow;
+    color: white;
   }
 }
 
@@ -36,6 +36,10 @@
   text-align: center;
   font-weight: 600;
   margin: 50px;
+}
+
+.header {
+  font-size: 82px;
 }
 
 h1 {
