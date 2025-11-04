@@ -1,9 +1,11 @@
 // import logo from "./logo.svg";
 import "./App.css";
+import Nav from "./Components/Nav";
 
 function App() {
   return (
     <div className="App">
+      <Nav />
       <div>
         <p className="header">21st Century Cities</p>
       </div>
