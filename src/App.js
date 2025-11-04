@@ -14,7 +14,7 @@ function App() {
         <p>Taylor Williams</p>
       </div>
       <div>
-        <h1>Venice</h1>
+        <h1 className="venice">Venice</h1>
         <p>
           Venice is a beautiful city with amazing charm and wonder. Surronded by
           the beautiful waters, Venice is a lover's dream. But throughout its
