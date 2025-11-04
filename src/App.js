@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <div>
-        <p>21st Century Cities</p>
+        <p>21ST CENTURY CITIES</p>
       </div>
       <div>
         <p>Final Project</p>
@@ -20,8 +20,24 @@ function App() {
           the beautiful waters, Venice is a lover's dream. But throughout its
           beauty, Venice is facing a dire problem. Venice is sinking. You may
           think that isn't an issue being that Venice is surronded by water, but
-          it is more of an issue than you think.
+          it is more of an issue than you think. Several times a year Venice
+          floods at high tide. This event is called "acqua alta" or "high
+          water." Although these events aren't out of the norm, over the years
+          there has been more flooding than usual. As the Earth heats up, the
+          water risese more and more. The reason being that Venice is sinking is
+          groundwater extraction and soil compression from heavy buldings. Also
+          natural tectonic plate movement and frequent flooding.
         </p>
+      </div>
+
+      <div className="section">
+        <div>
+          <p>Groundwater Extraction</p>
+        </div>
+
+        <div>
+          <p>Soil Compression</p>
+        </div>
       </div>
 
       <div>
