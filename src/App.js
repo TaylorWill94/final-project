@@ -4,9 +4,15 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <p>21st Century Cities</p>
-      <p>Final Project</p>
-      <p>Taylor Williams</p>
+      <div>
+        <p>21st Century Cities</p>
+      </div>
+      <div>
+        <p>Final Project</p>
+      </div>
+      <div>
+        <p>Taylor Williams</p>
+      </div>
     </div>
   );
 }
