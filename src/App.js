@@ -5,10 +5,10 @@ function App() {
   return (
     <div className="App">
       <div>
-        <p>21ST CENTURY CITIES</p>
+        <p className="header">21ST CENTURY CITIES</p>
       </div>
       <div>
-        <p>Final Project</p>
+        <p className="final">Final Project</p>
       </div>
       <div>
         <p>Taylor Williams</p>

@@ -1,6 +1,6 @@
 * {
   background-color: black;
-  margin: 25px;
+  /* margin: 25px; */
 }
 
 .App {
@@ -13,21 +13,29 @@
   .App {
     display: grid;
     grid-template-rows: 1fr 1fr 1fr;
+    margin: 25px;
 
     text-align: center;
-    font-weight: 600;
+    font-weight: 100;
 
     background-color: black;
   }
 
-  p {
-    color: white;
+  .header {
+    color: pink;
+  }
+
+  .final {
+    color: yellow;
   }
 }
+
+/* THE REST OF THE SCREEN */
 
 .App {
   text-align: center;
   font-weight: 600;
+  margin: 50px;
 }
 
 h1 {
