@@ -1,10 +1,20 @@
 * {
-  background-color: black;
+  background-color: rgb(255, 255, 255);
+}
+
+.App {
+  text-align: center;
+  font-weight: 600;
+  margin: 50px;
 }
 
 .header {
   font-size: 50px;
-  color: lightcyan;
+  color: rgb(129, 206, 206);
+}
+
+.venice {
+  color: rgb(150, 186, 138);
 }
 
 @media screen and (min-width: 320px) and (max-width: 640px) {
@@ -16,12 +26,12 @@
     text-align: center;
     font-weight: 100;
 
-    background-color: black;
+    background-color: rgb(255, 255, 255);
   }
 
   .header {
     font-size: 25px;
-    color: white;
+    color: rgb(0, 0, 0);
   }
 
   .venice {
@@ -33,17 +43,11 @@
   }
 
   .final {
-    color: white;
+    color: rgb(0, 0, 0);
   }
 }
 
 /* THE REST OF THE SCREEN */
-
-.App {
-  text-align: center;
-  font-weight: 600;
-  margin: 50px;
-}
 
 /* .header {
   font-size: 50px;
@@ -51,11 +55,11 @@
 } */
 
 h1 {
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 p {
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 .section {
