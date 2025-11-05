@@ -38,12 +38,12 @@ function Final() {
         <div>
           <h1>Soil Compression</h1>
           <p>
-            Venice by nature is a natural marsh which means it is made up of wet
-            soft and muddy oil. In order for all the beautiful buildings to be
-            built, engineers dug wooden poles into the earth to act as a
-            foundation. Over time buildings have pushed down on this soil
-            causing it to compact and compress. This is where we get buildings
-            sinking over time.
+            Venice was built on a marshy landscape made up of soft, wet soil. To
+            support the city’s beautiful buildings, engineers drove wooden poles
+            deep into the ground to create a sturdy foundation. Over the
+            centuries, the weight of these structures has slowly pressed down on
+            the soft soil, causing it to compact and sink. This gradual settling
+            is one of the main reasons Venice continues to sink today.
           </p>
         </div>
       </div>
