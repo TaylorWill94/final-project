@@ -6,19 +6,20 @@ function Final() {
       <div>
         <h1>Venice is Sinking</h1>
       </div>
-      <div>
+      <div className="first">
         <p>
-          Venice is a beautiful city with amazing charm and wonder. Surronded by
-          the beautiful waters, Venice is a lover's dream. But throughout its
-          beauty, Venice is facing a dire problem. Venice is sinking. You may
-          think that isn't an issue being that Venice is surronded by water, but
-          it is more of an issue than you think. Several times a year Venice
-          floods at high tide. This event is called "acqua alta" or "high
-          water." Although these events aren't out of the norm, over the years
-          there has been more flooding than usual. As the Earth heats up, the
-          water risese more and more. The reason being that Venice is sinking is
-          groundwater extraction and soil compression from heavy buldings. Also
-          natural tectonic plate movement and frequent flooding.
+          Venice is a beautiful city full of charm and wonder. Surrounded by
+          sparkling waters, it’s often considered a lover’s dream. But beneath
+          its beauty lies a serious problem — Venice is sinking. You might think
+          this isn’t an issue since the city is already surrounded by water, but
+          it’s a much bigger problem than it seems. Several times a year, Venice
+          floods during high tides, an event known as acqua alta, or “high
+          water.” Although these events aren’t unusual, the frequency and
+          severity of the floods have increased over the years. As the Earth
+          continues to heat up, sea levels rise even more. Venice’s sinking is
+          caused by several factors, including groundwater extraction, soil
+          compression from heavy buildings, natural tectonic movement, and
+          repeated flooding.
         </p>
       </div>
 
@@ -26,11 +27,11 @@ function Final() {
         <div>
           <h1>Groundwater Extraction</h1>
           <p>
-            Groundwater Extraction is a process that involves pumping water from
-            underground water resoviors. Although this process stopped in the
-            1970s, when the water was removed it left empty spaces in the
-            ground. This left the weight of Venice's buildings to compress the
-            soil into the empty space.
+            Groundwater extraction involves pumping water from underground
+            reservoirs. Although this practice ended in the 1970s, removing the
+            water left empty pockets in the ground. Over time, the heavy weight
+            of Venice’s buildings caused the soil to sink into these spaces,
+            contributing to the city’s gradual sinking.
           </p>
         </div>
 
