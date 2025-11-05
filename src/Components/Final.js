@@ -7,9 +7,6 @@ function Final() {
         <h1 className="final">Final Project</h1>
       </div>
       <div>
-        <p>Taylor Williams</p>
-      </div>
-      <div>
         <h1 className="venice">Venice</h1>
         <p>
           Venice is a beautiful city with amazing charm and wonder. Surronded by

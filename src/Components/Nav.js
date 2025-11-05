@@ -11,7 +11,7 @@ function Nav() {
         <p>About</p>
       </Link>
       <p>Contact</p>
-      <Link className="/final">
+      <Link to="/final">
         <p>Final Project</p>
       </Link>
     </div>
