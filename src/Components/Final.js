@@ -49,6 +49,7 @@ function Final() {
       </div>
 
       <div>
+        <h1>Why is this Important?</h1>
         <p>
           This issue is important for making cities more resilient in the future
           because, as global warming continues, sinking isn’t just a problem in
