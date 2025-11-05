@@ -4,7 +4,7 @@ function Home() {
   return (
     <div className="home">
       <div>
-        <h1>21st Century Cities</h1>
+        <h1 className="cities">21st Century Cities</h1>
       </div>
 
       <div className="desc">

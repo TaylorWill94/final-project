@@ -4,6 +4,11 @@
   grid-template-rows: 1fr 1fr;
 }
 
+.cities {
+  color: black;
+}
+
 .desc {
   margin: 25px;
+  color: black;
 }
