@@ -4,7 +4,7 @@ function Final() {
   return (
     <div className="final">
       <div>
-        <h1 className="final">Venice is Sinking</h1>
+        <h1>Venice is Sinking</h1>
       </div>
       <div>
         <p>
