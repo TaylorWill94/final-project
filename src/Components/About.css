@@ -10,3 +10,13 @@
   margin: 100px;
   color: black;
 }
+
+@media screen and (min-width: 320px) and (max-width: 640px) {
+  .about {
+    margin: 10px;
+  }
+
+  .bio {
+    margin: 10px;
+  }
+}
