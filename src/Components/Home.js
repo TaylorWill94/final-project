@@ -1,8 +1,9 @@
+import "./Home.css";
+
 function Home() {
   return (
     <div className="home">
-      <h1>Home</h1>
-      <p>21st Century Cities</p>
+      <h1>21st Century Cities</h1>
     </div>
   );
 }

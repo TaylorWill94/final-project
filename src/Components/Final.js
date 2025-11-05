@@ -1,23 +1,10 @@
-// import logo from "./logo.svg";
-import "./App.css";
-import Nav from "./Components/Nav";
-import About from "./Components/About";
-import Home from "./Components/Home";
-import Final from "./Components/Final";
-import { Routes, Route } from "react-router-dom";
+import "./Final.css";
 
-function App() {
+function Final() {
   return (
-    <div className="App">
-      <Nav />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/final" element={<Final />} />
-      </Routes>
-
-      {/* <div>
-        <p className="final">Final Project</p>
+    <div className="final">
+      <div>
+        <h1 className="final">Final Project</h1>
       </div>
       <div>
         <p>Taylor Williams</p>
@@ -88,9 +75,9 @@ function App() {
           any community that is on a coastline is threatneded by the issue of
           sinking.
         </p>
-      </div> */}
+      </div>
     </div>
   );
 }
 
-export default App;
+export default Final;
