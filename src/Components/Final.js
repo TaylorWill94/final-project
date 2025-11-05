@@ -82,6 +82,20 @@ function Final() {
           protect vulnerable regions and slow the effects of climate change.
         </p>
       </div>
+
+      <div>
+        <p>
+          One way to help combat Venice’s sinking is by strengthening the city’s
+          foundation and improving how water is managed. Engineers could
+          reinforce the wooden piles under the buildings or replace some with
+          stronger, water-resistant materials. Upgrading the city’s drainage and
+          water flow systems could also reduce the pressure on the soil beneath
+          Venice. On top of that, restoring wetlands around the lagoon could
+          help absorb excess water and protect the city from flooding. Combined
+          with global efforts to slow climate change, these steps could give
+          Venice a better chance of staying above water for generations to come.
+        </p>
+      </div>
     </div>
   );
 }
