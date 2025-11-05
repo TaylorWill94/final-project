@@ -10,7 +10,6 @@ function Nav() {
       <Link to="/about">
         <p className="block">About</p>
       </Link>
-      <p>Contact</p>
       <Link to="/final">
         <p className="block">Final Project</p>
       </Link>

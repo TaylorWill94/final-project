@@ -1,3 +1,9 @@
 .home {
   margin: 50px;
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+}
+
+.desc {
+  margin: 50px;
 }
