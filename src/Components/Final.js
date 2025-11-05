@@ -68,6 +68,7 @@ function Final() {
       </div>
 
       <div>
+        <h1>Who is Impacted?</h1>
         <p>
           The people who will be affected first are the residents and visitors
           of Venice. For those who call the city home, the rising waters
@@ -84,6 +85,7 @@ function Final() {
       </div>
 
       <div>
+        <h1>A Solution</h1>
         <p>
           One way to help combat Venice’s sinking is by strengthening the city’s
           foundation and improving how water is managed. Engineers could
