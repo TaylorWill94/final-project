@@ -1,6 +1,6 @@
 .nav {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
 
   /* display: flex;
   justify-content: space-between;
@@ -10,8 +10,8 @@
 }
 
 p {
-  display: inline-block; /* Ensures smooth scaling */
-  transition: transform 0.3s ease, color 0.3s ease; /* Smooth transition */
+  display: inline-block;
+  transition: transform 0.3s ease, color 0.3s ease;
   cursor: pointer;
 }
 

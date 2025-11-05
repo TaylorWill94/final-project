@@ -1,15 +1,22 @@
 // import logo from "./logo.svg";
 import "./App.css";
 import Nav from "./Components/Nav";
+import About from "./Components/About";
+import Home from "./Components/Home";
+import { Routes, Route } from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
       <Nav />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
+      </Routes>
       <div>
         <p className="header">21st Century Cities</p>
       </div>
-      <div>
+      {/* <div>
         <p className="final">Final Project</p>
       </div>
       <div>
@@ -81,7 +88,7 @@ function App() {
           any community that is on a coastline is threatneded by the issue of
           sinking.
         </p>
-      </div>
+      </div> */}
     </div>
   );
 }
