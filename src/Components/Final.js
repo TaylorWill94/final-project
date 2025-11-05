@@ -50,27 +50,36 @@ function Final() {
 
       <div>
         <p>
-          This issue is important for making a city resilient in the future
-          because as we face global warming, sinking isn't just an issue in
-          Venice. Addressing how to fix this issue is important to the
-          sustanability of many cities throughout the world. As well as making
-          sure that there are proper protection mesasures in place. If we can
-          truly find a solution to combat cities from sinking, this can reframe
-          Global Warming. We can use this information and distribute it to
-          cities worldwide. Currently there is a system in place which is called
-          the MOSE system. This system has 78 steel elements that each weigh 250
-          tons. This system is designed to protect the city of venice and the
-          barriers are over 130cm over sea level. This is a system that does
-          have to be physically deployed.
+          This issue is important for making cities more resilient in the future
+          because, as global warming continues, sinking isn’t just a problem in
+          Venice. Finding ways to address and prevent this issue is vital for
+          the sustainability of cities around the world and for ensuring that
+          proper protective measures are in place. If we can discover effective
+          solutions to stop cities from sinking, it could change how we think
+          about and respond to global warming. The lessons learned from Venice
+          can help guide other cities facing similar challenges. One major
+          effort to protect Venice is the MOSE system — a series of 78 steel
+          barriers, each weighing about 250 tons. These barriers can be raised
+          during high tides to shield the city from flooding, standing more than
+          130 centimeters above sea level when deployed. While the system must
+          be operated manually, it represents a significant step forward in
+          protecting Venice from rising waters.
         </p>
       </div>
 
       <div>
         <p>
-          The praticular population that will be effected first are the
-          residents and visitors of Venice. Outside of the residents of Venice,
-          any community that is on a coastline is threatneded by the issue of
-          sinking.
+          The people who will be affected first are the residents and visitors
+          of Venice. For those who call the city home, the rising waters
+          threaten their homes, livelihoods, and cultural heritage. Tourists,
+          too, face growing risks as flooding disrupts transportation, damages
+          landmarks, and affects local businesses. Beyond Venice, any community
+          located along a coastline faces similar dangers. As sea levels
+          continue to rise, coastal cities around the world — from Miami to
+          Bangkok — are experiencing the same challenges of erosion, flooding,
+          and infrastructure strain. What’s happening in Venice is a warning
+          sign for what could happen elsewhere if global action isn’t taken to
+          protect vulnerable regions and slow the effects of climate change.
         </p>
       </div>
     </div>
