@@ -8,18 +8,21 @@ function Final() {
       </div>
       <div className="first">
         <p>
-          Venice is a beautiful city full of charm and wonder. Surrounded by
-          sparkling waters, it’s often considered a lover’s dream. But beneath
-          its beauty lies a serious problem — Venice is sinking. You might think
-          this isn’t an issue since the city is already surrounded by water, but
-          it’s a much bigger problem than it seems. Several times a year, Venice
-          floods during high tides, an event known as acqua alta, or “high
-          water.” Although these events aren’t unusual, the frequency and
-          severity of the floods have increased over the years. As the Earth
-          continues to heat up, sea levels rise even more. Venice’s sinking is
-          caused by several factors, including groundwater extraction, soil
-          compression from heavy buildings, natural tectonic movement, and
-          repeated flooding.
+          Venice is a city like no other—steeped in charm, history, and wonder.
+          With its shimmering canals, romantic bridges, and timeless
+          architecture, it has long been considered a dream destination for
+          lovers and travelers alike. But behind this beauty lies a pressing
+          danger: Venice is sinking. At first glance, being surrounded by water
+          might not seem like a problem—but the reality is far more serious.
+          Several times a year, the city experiences acqua alta, or “high
+          water,” when tides rise and flood its streets and piazzas. While
+          flooding has been part of Venice’s rhythm for centuries, these events
+          are becoming more frequent and severe. Climate change is accelerating
+          sea-level rise, compounding the city’s challenges. Venice’s gradual
+          sinking is driven by a combination of factors: groundwater extraction,
+          soil compression under centuries of heavy buildings, natural tectonic
+          shifts, and the relentless impact of repeated flooding. Without
+          intervention, this iconic city faces an uncertain future.
         </p>
       </div>
 
