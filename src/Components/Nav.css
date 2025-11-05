@@ -9,12 +9,12 @@
   padding: 20px; */
 }
 
-p {
+.block {
   display: inline-block;
   transition: transform 0.3s ease, color 0.3s ease;
   cursor: pointer;
 }
 
-p:hover {
+.block:hover {
   transform: scale(1.2); /* Grows text by 20% */
 }

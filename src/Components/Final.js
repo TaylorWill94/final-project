@@ -4,10 +4,9 @@ function Final() {
   return (
     <div className="final">
       <div>
-        <h1 className="final">Final Project</h1>
+        <h1 className="final">Venice is Sinking</h1>
       </div>
       <div>
-        <h1 className="venice">Venice</h1>
         <p>
           Venice is a beautiful city with amazing charm and wonder. Surronded by
           the beautiful waters, Venice is a lover's dream. But throughout its
