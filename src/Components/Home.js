@@ -1,4 +1,5 @@
 import "./Home.css";
+import VeniceImage from "./venice.png";
 
 function Home() {
   return (
@@ -24,6 +25,8 @@ function Home() {
           save it.
         </p>
       </div>
+      <img src={VeniceImage} width="100%" height="auto" alt="Venice" />
+      <div></div>
     </div>
   );
 }
